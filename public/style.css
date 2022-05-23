@@ -18,13 +18,12 @@ main
 	{
 	 margin:auto;
 	 max-width:800px;
- 	 padding:0.6rem;
+ 	 padding:0.9rem;
  	}
 pre     
 	{
 	background:white;
-	overflow:scroll;
-	padding:1rem;}
+	overflow:scroll; padding:1rem;}
 td	
 	{
 	border:1px solid #2d2d2d;
