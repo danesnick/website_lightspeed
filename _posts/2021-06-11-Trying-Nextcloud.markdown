@@ -71,7 +71,7 @@ There are a few things that I still need to replace from Google:
 * Photos - Although Nextcloud photos gives me the ability to get my photos off my phone and onto a hard drive easily, there are no editing tools, no machine-learning based face/object recognition and the gallery application is a bit lacking. There are many self-hosted alternatives outthere, but all of them seem to be missing a feature or two that Google Photos provides. The best potential candidate I've found so far is [Photo Prism](https://photoprism.app/) which I'll be closely watching.  
 
 
-If you have any other recommendations, please [let me know](/#contact).
+If you have any other recommendations, please [let me know](/about/#contact).
 
 
 

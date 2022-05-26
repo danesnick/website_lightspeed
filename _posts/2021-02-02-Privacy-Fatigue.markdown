@@ -36,4 +36,4 @@ Although there is a privacy-minded community through the Fediverse and most peop
 
 That all being said, I acknowledge the technical knowledge & interest, as well as economic privilege I have in order to even make decisions that can improve my privacy, whether by using a less convenient alternative or by being able to afford paid services. I just wish this all was all so much easier!
 
-Have you ever felt this way when it comes to digital privacy? How did you overcome it? Were you willing to make compromises for your mental health? Let me know by [contacting me](/#contact)!
+Have you ever felt this way when it comes to digital privacy? How did you overcome it? Were you willing to make compromises for your mental health? Let me know by [contacting me](/about/#contact)!

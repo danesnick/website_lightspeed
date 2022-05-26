@@ -15,6 +15,6 @@ This sort of behaviour is at odds with my [Yearly Theme](/blog/2021/01/01/2021-r
 <figcaption><i>NextDNS's splash screen for a blocked site since adding Fosstodon.</i></figcaption>
 </figure>
 
-I've decided to uninstall all Mastodon apps from my phone and also block [fosstodon.org](https://fosstodon.org) from my [NextDNS](https://nextdns.io) account, my DNS provider setup on my router and my phone's private DNS, thereby preventing me accessing the website. I will try to do this for one week and see if my habits change. I will still be reachable if you'd like to [contact me](/#contact) and likely will be blogging still if topics come to mind. 
+I've decided to uninstall all Mastodon apps from my phone and also block [fosstodon.org](https://fosstodon.org) from my [NextDNS](https://nextdns.io) account, my DNS provider setup on my router and my phone's private DNS, thereby preventing me accessing the website. I will try to do this for one week and see if my habits change. I will still be reachable if you'd like to [contact me](/about/#contact) and likely will be blogging still if topics come to mind. 
 
 Until next time!

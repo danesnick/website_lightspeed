@@ -69,4 +69,4 @@ where the original form of this bash script was found [here](https://stackoverfl
 
 ## Conclusions
 
-I am extremely happy with how many photos/videos I was able to get rid of by going through this process. I am still trying to figure out where to host my photos for syncing and sharing in the future, but hopefully I can find a good option soon. If you have any recommendations, feel free to [contact me](/#contact) and let me know! 
+I am extremely happy with how many photos/videos I was able to get rid of by going through this process. I am still trying to figure out where to host my photos for syncing and sharing in the future, but hopefully I can find a good option soon. If you have any recommendations, feel free to [contact me](/about/#contact) and let me know! 

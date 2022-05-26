@@ -7,7 +7,7 @@ author: Nicholas Danes
 tags: [technology, privacy, drafts]
 ---
 
-> I am by no means a security researcher, expert or professional. Most of this post is my opinion using more higher level concepts about the topic at hand. If there's something I missed here, please [reach out](/#contact) and let me know!
+> I am by no means a security researcher, expert or professional. Most of this post is my opinion using more higher level concepts about the topic at hand. If there's something I missed here, please [reach out](/about/#contact) and let me know!
 
 ## Background
 

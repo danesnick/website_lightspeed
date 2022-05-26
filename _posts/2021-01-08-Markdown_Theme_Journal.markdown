@@ -16,4 +16,4 @@ I am plan on updating the website version at least once a week, as my journal se
 In spirit of my Year of Intention, I am also tracking my weight and my average time per week. This also gives me data I can track over time, but also not psychologically discourage me by checking everyday. This is especially true with my weight, where I know Iaboutll get discouraged when there are weight fluctuations. 
 I hope this inspires others to consider trying this for themselves! Wish me luck. 
 
-If you would like a copy of my Markdown theme journal, feel free to [contact me](/#contact) and I can send you a template!
+If you would like a copy of my Markdown theme journal, feel free to [contact me](/about/#contact) and I can send you a template!

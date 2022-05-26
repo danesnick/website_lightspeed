@@ -56,4 +56,4 @@ Normally, to change your output/input sound device, it requires either opening t
 
 ## Conclusion
 
-Although I don've use too many extensions, these are my favorite by far. I will be curious on what will happen to the GNOME 3 extension ecosystem once [GNOME 40](https://www.techrepublic.com/article/gnome-40-takes-a-few-bold-steps-to-improve-the-desktop/) releases, which I am very excited to try in [Fedora 34](https://9to5linux.com/first-look-at-gnome-40s-new-design-changes-in-fedora-34)! If you have any other useful suggestions for extensions, let me know by [contacting me](/#contact)!
+Although I don've use too many extensions, these are my favorite by far. I will be curious on what will happen to the GNOME 3 extension ecosystem once [GNOME 40](https://www.techrepublic.com/article/gnome-40-takes-a-few-bold-steps-to-improve-the-desktop/) releases, which I am very excited to try in [Fedora 34](https://9to5linux.com/first-look-at-gnome-40s-new-design-changes-in-fedora-34)! If you have any other useful suggestions for extensions, let me know by [contacting me](/about/#contact)!

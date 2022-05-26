@@ -44,7 +44,7 @@ Last year consisted of constantly thinking about technology, whether it be priva
 
 ## Learn some new math
 
-Despite finishing my PhD in 2019 in Applied Mathematics, I haven't really thought about math in over a year. I'd like to pick up a hobby project at some point this year that couples my interest in applied/computational mathematics and my more interest in web technologies. In particular, I'd like to learn the mathematics behind machine learning. If you have any books or other resources to recommend, feel free to [reach out](/#contact) to me!
+Despite finishing my PhD in 2019 in Applied Mathematics, I haven't really thought about math in over a year. I'd like to pick up a hobby project at some point this year that couples my interest in applied/computational mathematics and my more interest in web technologies. In particular, I'd like to learn the mathematics behind machine learning. If you have any books or other resources to recommend, feel free to [reach out](/about/#contact) to me!
 
 
 ## Conclusions

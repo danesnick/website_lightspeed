@@ -47,7 +47,7 @@ Many people believe that Spotify is just a music streaming service company, but 
 
 
 ## Alternatives
-There a variety alternative options for music listening, so I will briefly discuss some of them here. I'm not going to discuss other streaming services such as Deezer or Tidal for the sake of brevity. If you feel like there's a good reason to consider them or another service, please [contact me](/#contact) and let me know why!
+There a variety alternative options for music listening, so I will briefly discuss some of them here. I'm not going to discuss other streaming services such as Deezer or Tidal for the sake of brevity. If you feel like there's a good reason to consider them or another service, please [contact me](/about/#contact) and let me know why!
 
 ### YouTube Music
 
@@ -87,4 +87,4 @@ Ironically, the trade off to intentionality is losing some convenience. If an ar
 
 ## Conclusions
 
-If you made it this far, thanks for reading my thoughts about why I quit Spotify. Will I return to Spotify or use a streaming service again? Maybe. I think if I did, it's not something I would keep on autopay, and use only for periods I know I'll be away from my computer for long periods of time. And when I do, I think I will consider Apple Music over Spotify, but we'll see. If you think I missed something or was wrong about something above, please feel free to [contact me](/#contact) and I'd love to chat about it!
+If you made it this far, thanks for reading my thoughts about why I quit Spotify. Will I return to Spotify or use a streaming service again? Maybe. I think if I did, it's not something I would keep on autopay, and use only for periods I know I'll be away from my computer for long periods of time. And when I do, I think I will consider Apple Music over Spotify, but we'll see. If you think I missed something or was wrong about something above, please feel free to [contact me](/about/#contact) and I'd love to chat about it!

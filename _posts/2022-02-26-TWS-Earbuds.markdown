@@ -65,6 +65,6 @@ Let's go through all the TWS earbuds I tried since December 2021 that I ended up
 
 For now, I'm stepping away from TWS earbuds. With the invention of [Magsafe](https://support.apple.com/en-us/HT211829), it is now possible to listen to music through your lightning port via dongle and charge your phone again. This means I'm able to use wired earbuds such as the original Apple Earbuds, or my wonderful [Shure SE215 IEMs](https://www.shure.com/en-US/products/earphones/se215). I do miss the convenience of TWS earbuds, but I think I'll try to be patient for the right sale and hopefully for the technology to get more stable. For now, I'll just enjoy my wired headphones.
 
-Are you an TWS earbuds user? What experience have you had? I'm not completely opposed to them if there's a sweetspot between features and price. You can let me know by [contacting me](/#contact)!
+Are you an TWS earbuds user? What experience have you had? I'm not completely opposed to them if there's a sweetspot between features and price. You can let me know by [contacting me](/about/#contact)!
 
 

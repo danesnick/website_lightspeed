@@ -20,7 +20,7 @@ My current daily driver is a US Unlocked Samsung Galaxy S10e (G970U1) running An
 
 ## The Apps
 
-For my apps, I try my best to use as few Google apps as possible, as I've been trying to [de-Google](/blog/2020/12/03/degoogle-part1.html) my life whenever I feasibly can. Although I do install some apps from the Play Store, I try to use apps from the [F-Droid](f-droid.org/), a free & open source (FOSS) alternative app store, whenever possible. Some alternatives lack features or just aren't very usable sometimes, unfortunately. If you see a category that isn't FOSS app and you know a good alternative, please let me know by [contacting me](/#contact)!
+For my apps, I try my best to use as few Google apps as possible, as I've been trying to [de-Google](/blog/2020/12/03/degoogle-part1.html) my life whenever I feasibly can. Although I do install some apps from the Play Store, I try to use apps from the [F-Droid](f-droid.org/), a free & open source (FOSS) alternative app store, whenever possible. Some alternatives lack features or just aren't very usable sometimes, unfortunately. If you see a category that isn't FOSS app and you know a good alternative, please let me know by [contacting me](/about/#contact)!
 
 ### My Home Screen
 <figure>
@@ -84,4 +84,4 @@ There also a number of apps in my app drawer that I regularly use, but don've wa
 
 ## Conclusions
 
-This has been a non-exhaustive look at my phone setup, which is constantly changing. I plan I trying to do these every few months to see how much they change at all. If you have any other recommendations, feel free to [reach out](/#contact)! 
+This has been a non-exhaustive look at my phone setup, which is constantly changing. I plan I trying to do these every few months to see how much they change at all. If you have any other recommendations, feel free to [reach out](/about/#contact)! 

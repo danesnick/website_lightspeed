@@ -84,6 +84,6 @@ I also have some chromecasts plugged into our TVs as it provides a convenient wa
 
 De-googling is an ongoing journey, and my hope with this post is that it's okay to mess up/flounder during your own privacy journeys. Additionally, I think it's okay to make a compromise, especially if your life is busy and/or others are involved with your decisions. 
 
-How is your own de-Googling journey going? Feel free to [reach out](/#contact) if you'd like any suggestions from me!
+How is your own de-Googling journey going? Feel free to [reach out](/about/#contact) if you'd like any suggestions from me!
 
 
