@@ -3,14 +3,11 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-# Uses
-
-
-*Last Updated: 2022-05-24*
+*Last Updated: 2022-05-26*
 * **Gaming Computer:**
 	+ CPU: Intel i5-11400 (6 cores, 12 threads)
 	+ Memory: 16 GB DDR4 @ 3000 MHz
-	+ GPU: Intel UHD 730
+	+ GPU: Powercolor Radeon RX 6500 XT 4GB; Intel HD 730
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
 	+ OS: Pop!`_`OS 22.04
 	+ Keyboard: Glorious GMMK TKL (Black Slate) with Lubed & Filmed Gateron Reds, Drop 'Vintage' Artifact Bloom PBT Keycaps
