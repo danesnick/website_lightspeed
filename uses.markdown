@@ -3,14 +3,14 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2022-06-05*
+*Last Updated: 2022-06-07*
 
 ## Hardware
 
 * **Computer:**
 	+ CPU: Intel i5-11400 (6 cores, 12 threads)
 	+ Memory: 16 GB DDR4 @ 3000 MHz
-	+ GPU: Powercolor Radeon RX 6500 XT 4GB; Intel HD 730
+	+ GPU: Powercolor Fighter Radeon RX 6600 8GB; Intel HD 730
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
 	+ OS: Pop!`_`OS 22.04
 	+ Keyboard: MK x Leopold FC660MBT "Vapor" with Cherry MX Speed Silvers
