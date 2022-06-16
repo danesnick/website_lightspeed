@@ -4,6 +4,11 @@ title: Nicholas A. Danes, PhD
 permalink: /
 ---
 
+<figure>
+ <img class="profile" src="/images/me.jpg" alt="Me!">
+</figure>
+
+
 Hello! My name is Nicholas Danes and I am a Computational Scientist at Colorado School of Mines. I am also a tech nerd, drummer, dog fan and more. You can learn more about me [here](/about).
 
 

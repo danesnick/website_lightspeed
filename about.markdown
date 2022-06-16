@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <figure>
- <img class="avatar" src="/images/me_header.png" alt="Me!">
+ <img class="profile" src="/images/me.jpg" alt="Me!">
 </figure>
 
 My name is Nicholas A. Danes and I'm a Computational Scientist, helping researchers with their High Performance Computing support needs at [Colorado School of Mines](https://ciarc.mines.edu). I was born and raised in the Central Valley, California, but now living in Denver, Colorado.
