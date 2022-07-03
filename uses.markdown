@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2022-06-30*
+*Last Updated: 2022-07-03*
 
 ## Hardware
 
@@ -27,7 +27,7 @@ permalink: /uses/
 * **Tablet:** iPad 4th Generation 64 GB (Sky Blue)
 
 ## Software
-* Web Browser: Google Chrome (Desktop/iOS), Tor Browser (Desktop), Safari (iOS)
+* Web Browser: Mozilla FIrefox (Desktop/iOS), Tor Browser (Desktop)
 * Email Client: Mozilla Thunderbird (Linux), Fastmail (iOS)
 * Text Editor: Vim/Neovim
 * Code: Visual Studio Code
