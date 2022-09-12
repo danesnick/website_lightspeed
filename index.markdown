@@ -3,20 +3,39 @@ layout: default
 title: Nicholas A. Danes, PhD
 permalink: /
 ---
-
 <figure>
  <img class="profile" src="/images/me.jpg" alt="Me!">
 </figure>
 
+My name is Nicholas A. Danes and I'm a Computational Scientist, helping researchers with their High Performance Computing support needs at [Colorado School of Mines](https://ciarc.mines.edu). I was born and raised in the Central Valley, California, but now living in Denver, Colorado.
 
-Hello! My name is Nicholas Danes and I am a Computational Scientist at Colorado School of Mines. I am also a tech nerd, drummer, dog fan and more. You can learn more about me [here](/about).
+In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Computer Science at [CSU Bakersfield](https://csub.edu). In Late 2019, I completed my PhD in Computational and Applied Mathematics at [Colorado School of Mines](https://ams.mines.edu). After graduating, I worked in the industry as a Computational Engineer for less than a year, realizing I enjoyed more of the research computing/software aspect of my work, rather than the research itself, which led me take my current position as a Computational Scientist.
+
+This is just my personal website where I can express myself creatively and also hold myself accountable, whether that be in my blog posts, web pages or the web design itself. Blog posts on this site will include, but are not limited to topics on:
+
+* Personal Growth 
+* Mental Health
+* Minimalism 
+* Privacy
+* Free & Open Source Software (FOSS)
+* Technology
+* Applied Mathematics
+* Scientific / High Performance Computing
+
+### More About Me
+
+* [Bands I Play In](/bands)
+* [My Resume](/resume)
+* [Tech I use](/uses)
 
 
-<ul class="homepage-list" style="list-style:none;padding:1rem 0;">
-{% for post in site.posts %}
-  <li style="align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:10px;">
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    <time style="font-size:90%;" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-  </li>
-{% endfor %}
-</ul>
+### Where Else to Find Me
+
+* [Bandcamp](https://bandcamp.com/danesnick)
+* [LinkedIn](https://www.linkedin.com/in/nicholas-danes-phd-a82107237)
+* [GitHub](https://github.com/danesnick)
+* <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon</a>
+
+### Contact
+* Email: [hello@ndanes.com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
+* XMPP: [ndanes@chat.1998.social](xmpp:ndanes@chat.1998.social)

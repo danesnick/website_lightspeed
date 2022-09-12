@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2022-07-03*
+*Last Updated: 2022-09-12*
 
 ## Hardware
 
@@ -12,9 +12,12 @@ permalink: /uses/
 	+ Memory: 16 GB DDR4 @ 3000 MHz
 	+ GPU: Powercolor Fighter Radeon RX 6600 8GB; Intel HD 730
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
-	+ OS: Pop!`_`OS 22.04
-	+ Keyboard: MK x Leopold FC660MBT "Vapor" with Cherry MX Speed Silvers
-	+ Mouse: Logitech G305 (White)
+	+ OS: Windows 11
+	+ Keyboard: 
+		- Logitech MX Keys Mini (Black)
+	+ Mouse: 
+		- Logitech M650L (Black)
+		- Logitech G305 (White)
 	+ BenQ Mobiuz EX2510 (24,5", IPS, 1080p, 144hz)
 * **Audio:**
 	* Wireless: Apple Airpods Pro
@@ -27,18 +30,18 @@ permalink: /uses/
 * **Tablet:** iPad 4th Generation 64 GB (Sky Blue)
 
 ## Software
-* Web Browser: Mozilla FIrefox (Desktop/iOS), Tor Browser (Desktop)
-* Email Client: Mozilla Thunderbird (Linux), Fastmail (iOS)
-* Text Editor: Vim/Neovim
+* Web Browser: Mozilla Firefox (Desktop), Safari (iOS/iPaOS)
+* Email Client: Mozilla Thunderbird (Desktop), Fastmail (iOS)
+* Text Editor: Vim/Neovim (WSL)
 * Code: Visual Studio Code
 * Music Player: Cider (Apple Music Frontend)
-* Chat: Signal, Dino (XMPP), Discord
-* Notes: Simplenote
+* Chat: Gajim (XMPP), Discord
+* Notes: Notion
 * Documents: Google Docs
 * Podcasts: Pocket Casts
-* Photo Manager: GNOME Shotwell (Linux), Apple Photos (iOS)
-* Gaming: Steam, Lutris, Epic Games Store
-* Backup Utility: Duplicati, Deja-dup
+* Photo Manager: Apple Photos (iOS)
+* Gaming: Steam, Epic Games Store
+* Backup Utility: Duplicati
 
 ## Services
 * Email: Fastmail ([Referral](https://ref.fm/u24999624))
