@@ -11,16 +11,7 @@ My name is Nicholas A. Danes and I'm a Computational Scientist, helping research
 
 In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Computer Science at [CSU Bakersfield](https://csub.edu). In Late 2019, I completed my PhD in Computational and Applied Mathematics at [Colorado School of Mines](https://ams.mines.edu). After graduating, I worked in the industry as a Computational Engineer for less than a year, realizing I enjoyed more of the research computing/software aspect of my work, rather than the research itself, which led me take my current position as a Computational Scientist.
 
-This is just my personal website where I can express myself creatively and also hold myself accountable, whether that be in my blog posts, web pages or the web design itself. Blog posts on this site will include, but are not limited to topics on:
-
-* Personal Growth 
-* Mental Health
-* Minimalism 
-* Privacy
-* Free & Open Source Software (FOSS)
-* Technology
-* Applied Mathematics
-* Scientific / High Performance Computing
+I have a variety of hobbies and personal interests. Most recently (as of mid 2022), I've grown a strong interest in evidence-based health & fitness, dropping 17 lbs so far this year! I also play drums in a variety of [local bands](/bands) and have been playing since high school. Finally, I enjoy hanging out with my dogs & partner, cooking, and PC gaming. 
 
 ### More About Me
 
