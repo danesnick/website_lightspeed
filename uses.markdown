@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2022-09-12*
+*Last Updated: 2022-11-01*
 
 ## Hardware
 
@@ -14,27 +14,27 @@ permalink: /uses/
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
 	+ OS: Windows 11
 	+ Keyboard: 
-		- Logitech MX Keys Mini (Black)
+		- Keychron V1 Mechanical Keyboard, Lubed & Filmed Gateron Red Switches, Cherry Profile WoB Keycaps
 	+ Mouse: 
 		- Logitech M650L (Black)
 		- Logitech G305 (White)
 	+ BenQ Mobiuz EX2510 (24,5", IPS, 1080p, 144hz)
 * **Audio:**
-	* Wireless: Apple Airpods Pro
+	* Wireless: Anker Soundcore Liberty 2 Air Proo
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory (Space Gray)
+* **Personal Laptop:** M1 13" Macbook Air with 8 GB Unified Memory, 256 GB SSD (Silver)
+* **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** iPhone 13 128 GB (Midnight)
-* **Smartwatch:** Apple Watch SE 44mm GPS (Silver)
-* **Tablet:** iPad 4th Generation 64 GB (Sky Blue)
+* **Smartwatch:** Apple Watch SE 2 44mm GPS+Cellular (Midnight)
 
 ## Software
-* Web Browser: Mozilla Firefox (Desktop), Safari (iOS/iPaOS)
-* Email Client: Mozilla Thunderbird (Desktop), Fastmail (iOS)
+* Web Browser: Google Chrome (Desktop), Safari (iOS/iPaOS)
+* Email Client: Mozilla Thunderbird (Desktop), Apple Mail (iOS)
 * Text Editor: Vim/Neovim (WSL)
 * Code: Visual Studio Code
-* Music Player: Cider (Apple Music Frontend)
+* Music Player: iTunes (Desktop), Apple Music (iOS)
 * Chat: Gajim (XMPP), Discord
 * Notes: Notion
 * Documents: Google Docs
