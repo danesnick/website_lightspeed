@@ -24,7 +24,7 @@ permalink: /uses/
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Personal Laptop:** Samsung Galaxy Book2 360 13.3" with FHD AMOLED Display, i7-1255U (2 P-cores w/ Hyperthreading, 8 E-cores), 16 GB RAM, 512 GB SSD (Graphite) 
+* **Personal Laptop:** Currently looking!
 * **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** Pixel 7 128 GB (Obsidian)
 * **Smartwatch:** Garmin Forerunner 255 Music
