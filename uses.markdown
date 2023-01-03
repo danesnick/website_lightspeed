@@ -3,11 +3,11 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2022-11-01*
+*Last Updated: 2023-01-02*
 
 ## Hardware
 
-* **Computer:**
+* **Desktop:**
 	+ CPU: Intel i5-11400 (6 cores, 12 threads)
 	+ Memory: 16 GB DDR4 @ 3000 MHz
 	+ GPU: Powercolor Fighter Radeon RX 6600 8GB; Intel HD 730
@@ -18,28 +18,27 @@ permalink: /uses/
 	+ Mouse: 
 		- Logitech M650L (Black)
 		- Logitech G305 (White)
-	+ BenQ Mobiuz EX2510 (24,5", IPS, 1080p, 144hz)
+	+ BenQ Mobiuz EX2510 (24.5", IPS, 1080p, 144hz)
 * **Audio:**
-	* Wireless: Anker Soundcore Liberty 2 Air Proo
+	* Wireless: Google Pixel Buds Pro (2022), Logitech G435
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Personal Laptop:** M1 13" Macbook Air with 8 GB Unified Memory, 256 GB SSD (Silver)
+* **Personal Laptop:** Samsung Galaxy Book2 360 13.3" with FHD AMOLED Display, i7-1255U (2 P-cores w/ Hyperthreading, 8 E-cores), 16 GB RAM, 512 GB SSD (Graphite) 
 * **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
-* **Phone:** iPhone 13 128 GB (Midnight)
-* **Smartwatch:** Apple Watch SE 2 44mm GPS+Cellular (Midnight)
+* **Phone:** Pixel 7 128 GB (Obsidian)
+* **Smartwatch:** Garmin Forerunner 255 Music
 
 ## Software
-* Web Browser: Google Chrome (Desktop), Safari (iOS/iPaOS)
-* Email Client: Mozilla Thunderbird (Desktop), Apple Mail (iOS)
-* Text Editor: Vim/Neovim (WSL)
-* Code: Visual Studio Code
-* Music Player: iTunes (Desktop), Apple Music (iOS)
-* Chat: Gajim (XMPP), Discord
+* Web Browser: Mozilla Firefox
+* Email Client: Mozilla Thunderbird (Desktop), Fastmail (Android)
+* Text Editor: Vim/Neovim 
+* Music Player: Spotify
+* Chat: Google Chat, WhatsApp, Discord
 * Notes: Notion
 * Documents: Google Docs
 * Podcasts: Pocket Casts
-* Photo Manager: Apple Photos (iOS)
+* Photo Manager: Google Photos
 * Gaming: Steam, Epic Games Store
 * Backup Utility: Duplicati
 
@@ -48,5 +47,5 @@ permalink: /uses/
 * Domain: Gandi.net ([Referral](https://gandi.link/f/c862dae1))
 * Search: Startpage, DuckDuckGo
 * Backup: Backblaze B2
-* Cloud Storage: iCloud, Google Drive with [Cryptomator](/blog/2021/12/27/usingcryptomator-for-cheap-private-cloud-storage/) 
-* Music Streaming: Apple Music
+* Cloud Storage: Google Drive with [Cryptomator](/blog/2021/12/27/usingcryptomator-for-cheap-private-cloud-storage/) 
+* Music Streaming: Spotify
