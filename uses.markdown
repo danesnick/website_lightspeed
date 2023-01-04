@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2023-01-02*
+*Last Updated: 2023-01-03*
 
 ## Hardware
 
@@ -27,20 +27,8 @@ permalink: /uses/
 * **Personal Laptop:** Currently looking!
 * **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** Pixel 7 128 GB (Obsidian)
+* **Tablet:** Lenovo Chromebook Duet 3 11" 2-in-1
 * **Smartwatch:** Garmin Forerunner 255 Music
-
-## Software
-* Web Browser: Mozilla Firefox
-* Email Client: Mozilla Thunderbird (Desktop), Fastmail (Android)
-* Text Editor: Vim/Neovim 
-* Music Player: Spotify
-* Chat: Google Chat, WhatsApp, Discord
-* Notes: Notion
-* Documents: Google Docs
-* Podcasts: Pocket Casts
-* Photo Manager: Google Photos
-* Gaming: Steam, Epic Games Store
-* Backup Utility: Duplicati
 
 ## Services
 * Email: Fastmail ([Referral](https://ref.fm/u24999624))
