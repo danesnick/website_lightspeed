@@ -20,7 +20,7 @@ permalink: /uses/
 		- Logitech G305 (White)
 	+ BenQ Mobiuz EX2510 (24.5", IPS, 1080p, 144hz)
 * **Audio:**
-	* Wireless: Google Pixel Buds Pro (2022), Logitech G435
+	* Wireless: Sony WF-1000XM4
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
