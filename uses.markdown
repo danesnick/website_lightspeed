@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2023-01-03*
+*Last Updated: 2023-01-11*
 
 ## Hardware
 
@@ -12,9 +12,9 @@ permalink: /uses/
 	+ Memory: 16 GB DDR4 @ 3000 MHz
 	+ GPU: Powercolor Fighter Radeon RX 6600 8GB; Intel HD 730
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
-	+ OS: Windows 11
+	+ OS: Windows 11 Home
 	+ Keyboard: 
-		- Keychron V1 Mechanical Keyboard, Lubed & Filmed Gateron Red Switches, Cherry Profile WoB Keycaps
+		- Keychron V1 Mechanical Keyboard, Lubed & Filmed Gateron Red Switches, Cherry Profile PBT Dyesub BoW Keycaps
 	+ Mouse: 
 		- Logitech M650L (Black)
 		- Logitech G305 (White)
@@ -27,7 +27,6 @@ permalink: /uses/
 * **Personal Laptop:** Currently looking!
 * **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** Pixel 7 128 GB (Obsidian)
-* **Tablet:** Lenovo Chromebook Duet 3 11" 2-in-1
 * **Smartwatch:** Garmin Forerunner 255 Music
 
 ## Services
