@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2023-01-11*
+*Last Updated: 2023-01-22*
 
 ## Hardware
 
@@ -20,11 +20,11 @@ permalink: /uses/
 		- Logitech G305 (White)
 	+ BenQ Mobiuz EX2510 (24.5", IPS, 1080p, 144hz)
 * **Audio:**
-	* Wireless: Sony WF-1000XM4
+	* Wireless: Sony Linkbuds S (Black)
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Personal Laptop:** Currently looking!
+* **Personal Laptop:** Thinkpad X1 Carbon 14" Gen6 with 1080p IPS screen, i7-8565U, 16 GB RAM, 256 GB SSD 
 * **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** Pixel 7 128 GB (Obsidian)
 * **Smartwatch:** Garmin Forerunner 255 Music
