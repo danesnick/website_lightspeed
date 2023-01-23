@@ -15,10 +15,11 @@ I have a variety of hobbies and personal interests. Most recently (as of mid 202
 
 ## Latest Blog Posts
 {% for post in site.posts limit:5 %}
-   <article>
-      {% include article.html %}
-    </article>
-{% end %}
+  <li style="align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:10px;">
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <time style="font-size:90%;" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+  </li>
+{% endfor %}
 
 ### More About Me
 
