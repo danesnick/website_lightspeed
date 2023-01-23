@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Blog Archive
-permalink: /archive
+permalink: /blog
 ---
 
-I've archived my blog for now. Below you can see posts I've written between 2020-2022.
 
 <ul class="homepage-list" style="list-style:none;padding:1rem 0;">
 {% for post in site.posts %}
