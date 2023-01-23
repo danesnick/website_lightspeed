@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Think I'm Back? (Part 1 - Healh & Fitness)"
+title:  "I Think I'm Back? - Part 1: Health & Fitness Update"
 date:   2023-01-22 16:51:00 -0700
 categories: blog
 author: Nicholas Danes
