@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2023-02-12*
+*Last Updated: 2023-04-19*
 
 ## Hardware
 
@@ -13,18 +13,14 @@ permalink: /uses/
 	+ GPU: Powercolor Fighter Radeon RX 6600 8GB; Intel HD 730
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
 	+ OS: Windows 11 Home
-	+ Keyboard: 
-		- Keychron V1 Mechanical Keyboard, Lubed & Filmed Gateron Red Switches, Cherry Profile PBT Dyesub BoW Keycaps
-	+ Mouse: 
-		- Logitech M650L (Black)
-		- Logitech G305 (White)
+	+ Keyboard: Keychron V1 Mechanical Keyboard, Lubed & Filmed Gateron Red Switches, Cherry Profile PBT Dyesub BoW Keycaps
+	+ Mouse: Logitech G305 (White)
 	+ Monitor: LG 27UP600-W (27", IPS, 4K, 60hz)
 * **Audio:**
-	* Wireless: Sony Linkbuds S (Black)
+	* Wireless: Jaybird Vista 2
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Personal Laptop/Tablet:** Surface Go 3 with i3-10100Y, 8 GB RAM, 128 GB SSD, LTE 
 * **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** Pixel 7 128 GB (Obsidian)
 * **Smartwatch:** Garmin Forerunner 255 Music
