@@ -10,7 +10,7 @@ permalink: /uses/
 * **Desktop:**
 	+ CPU: Intel i5-11400 (6 cores, 12 threads)
 	+ Memory: 16 GB DDR4 @ 3000 MHz
-	+ GPU: Powercolor Fighter Radeon RX 6600 8GB; Intel HD 730
+	+ GPU: EVGA GTX 1080 8 GB Founder's Edition; Intel HD 730
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
 	+ OS: Windows 11 Home
 	+ Keyboard: Keychron V1 Mechanical Keyboard, Lubed & Filmed Gateron Red Switches, Cherry Profile PBT Dyesub BoW Keycaps
