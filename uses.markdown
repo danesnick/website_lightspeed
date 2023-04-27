@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2023-04-19*
+*Last Updated: 2023-04-26*
 
 ## Hardware
 
@@ -21,7 +21,8 @@ permalink: /uses/
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Work Laptop:** M1 13" Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
+* **Work Laptop:** 13" M1 Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
+* **Personal Laptop:** 13" Dell XPS 13 9305 w/ i7-1165G7, 16 GB RAM,  512 GB SSD (Black/Silver)
 * **Phone:** Pixel 7 128 GB (Obsidian)
 * **Smartwatch:** Garmin Forerunner 255 Music
 
