@@ -16,7 +16,7 @@ permalink: /uses/
 	+ Keyboard: Keychron V1 Mechanical Keyboard, Gateron Pro Yellow Switches, Cherry Profile PBT Dyesub Black on White Keycaps
 	+ Mouse: Logitech G305 (White)
 	+ Monitor: LG 27UP600-W (27", IPS, 4K, 60hz, Freesync)
- + * **Audio:**
+* **Audio:**
 	* Wireless: Soundcore Space A40
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
@@ -27,9 +27,9 @@ permalink: /uses/
 * **Smartwatch:** Garmin Forerunner 255
 
 ## Services
-* Email: Fastmail [Referral](https://ref.fm/u24999624)
+* Email: Fastmail ([Referral](https://ref.fm/u24999624))
 * Domain: PorkBun
-* Search: DuckDuckGo
+* Search: [Kagi](https://kagi.com)
 * Backup: Backblaze B2
 * Cloud Storage: Google Drive
 * Music Streaming: Spotify
