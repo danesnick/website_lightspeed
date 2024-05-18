@@ -3,21 +3,21 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2023-12-18*
+*Last Updated: 2024-05-17*
 
 ## Hardware
 
 * **Desktop:**
-	+ CPU: Intel i5-11400 (6 cores, 12 threads)
-	+ Memory: 16 GB DDR4 @ 3000 MHz
+	+ CPU: Intel i5-12600K (6 P-cores, 4 E-cores, 16 threads)
+	+ Memory: 32 GB DDR4 @ 3200 MHz
 	+ GPU: Powercolor RX 6700 XT
 	+ Storage: Crucial P2 PCIe Gen4 512 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
-	+ OS: Windows 11 Home
-	+ Keyboard: Keychron V1 Mechanical Keyboard, Gateron Pro Yellow Switches, Cherry Profile PBT Dyesub "Evil Dolch" Keycaps
+	+ OS: Windows 11 Pro
+	+ Keyboard: Keychron V1 Mechanical Keyboard, Gateron Pro Yellow Switches, Cherry Profile PBT Dyesub Black on White Keycaps
 	+ Mouse: Logitech G305 (White)
-	+ Monitor: LG 27UP600-W (27", IPS, 4K, 60hz) x 2
-* **Audio:**
-	* Wireless: Pixel Buds A-Series
+	+ Monitor: LG 27UP600-W (27", IPS, 4K, 60hz, Freesync)
+ + * **Audio:**
+	* Wireless: Soundcore Space A40
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
@@ -27,7 +27,7 @@ permalink: /uses/
 * **Smartwatch:** Garmin Forerunner 255
 
 ## Services
-* Email: Fastmail[ ([Referral](https://ref.fm/u24999624))](https://ref.fm/u24999624)
+* Email: Fastmail [Referral](https://ref.fm/u24999624)
 * Domain: PorkBun
 * Search: DuckDuckGo
 * Backup: Backblaze B2
