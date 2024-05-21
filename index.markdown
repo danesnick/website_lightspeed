@@ -29,7 +29,7 @@ I have a variety of hobbies and personal interests. Most recently (as of mid 202
 ### Where Else to Find Me
 
 * [Bandcamp](https://bandcamp.com/danesnick)
-* [LinkedIn](https://www.linkedin.com/in/nicholas-danes-phd-a82107237)
+* [LinkedIn](https://linkedin.com/in/nicholas-danes-a82107237)
 * [GitHub](https://github.com/danesnick)
 * <a rel="me" href="https://mast.hpc.social/@ndanes">Mastodon</a>
 
