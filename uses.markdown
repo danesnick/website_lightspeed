@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2024-05-17*
+*Last Updated: 2024-06-16*
 
 ## Hardware
 
@@ -22,14 +22,13 @@ permalink: /uses/
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
 * **Work Laptop:** 13" M1 Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
-* **Personal Laptop:** 13" Thinkpad X13 Gen 3 AMD with Ryzen 6850U, 16 GB RAM, 512 GB SSD, Debian 12 Bookworm
 * **Phone:** Pixel 7 128 GB (Obsidian)
 * **Smartwatch:** Garmin Forerunner 255
 
 ## Services
 * Email: Fastmail ([Referral](https://ref.fm/u24999624))
 * Domain: PorkBun
-* Search: [Kagi](https://kagi.com)
+* Search: DuckDuckGo / Startpage
 * Backup: Backblaze B2
 * Cloud Storage: Google Drive
 * Music Streaming: Spotify
