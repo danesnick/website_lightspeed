@@ -3,14 +3,14 @@
   /* Color scheme */
 
   --textcolor: #000;
-  --bgcolor: #fafcfd;
-  --highlight: #205ab9;
+  --bgcolor: #fcf7ec;
+  --highlight: #e1ad01;
 }
 
 @media (prefers-color-scheme: dark) {
   * {
   --textcolor: #fff;
-  --bgcolor: #161a1f;
+  --bgcolor: #3e2d00;
   --highlight: #e1ad01;
   }
 }
