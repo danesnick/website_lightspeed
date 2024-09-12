@@ -2,14 +2,14 @@
 
   /* Color scheme */
 
-  --textcolor: #000;
-  --bgcolor: #fcf7ec;
+  --textcolor: #120b00;
+  --bgcolor: #fff;
   --highlight: #e1ad01;
 }
 
 @media (prefers-color-scheme: dark) {
   * {
-  --textcolor: #fff;
+  --textcolor: #fcf7ec;
   --bgcolor: #3e2d00;
   --highlight: #e1ad01;
   }
