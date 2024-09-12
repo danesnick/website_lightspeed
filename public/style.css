@@ -3,8 +3,8 @@
   /* Color scheme */
 
   --textcolor: #120b00;
-  --bgcolor: #fcf7ec;
-  --highlight: #564100;
+  --bgcolor: #fefdf9;
+  --highlight: #FFFEFD;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,12 +25,12 @@ html,body
 a,a:visited
 	{
 	color:var(--highlight);
-	text-decoration:none;
+	text-decoration:underline;
 	}
 
 a:hover
 	{
-	text-decoration:underline;
+	text-decoration:none;
 	}
 main
 	{
