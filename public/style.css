@@ -3,8 +3,8 @@
   /* Color scheme */
 
   --textcolor: #120b00;
-  --bgcolor: #fff;
-  --highlight: #e1ad01;
+  --bgcolor: #fcf7ec;
+  --highlight: #8B6A00;
 }
 
 @media (prefers-color-scheme: dark) {
