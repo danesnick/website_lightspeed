@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2024-06-16*
+*Last Updated: 2024-10-17*
 
 ## Hardware
 
@@ -12,17 +12,17 @@ permalink: /uses/
 	+ Memory: 32 GB DDR4 @ 3200 MHz
 	+ GPU: Powercolor RX 6700 XT
 	+ Storage: Crucial P2 PCIe Gen4 512 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
-	+ OS: Debian 12 Bookworm
-	+ Keyboard: Keychron V1 Mechanical Keyboard, Gateron Pro Yellow Switches, Cherry Profile PBT Dyesub Black on White Keycaps
-	+ Mouse: Logitech G305 (White)
-	+ Monitor: LG 27UP600-W (27", IPS, 4K, 60hz, Freesync)
+	+ OS: Windows 11 Pro
+	+ Keyboard: Keychron C3 Pro Mechanical Keyboard, Gateron Pro Yellow Switches, Ducky "Good in Blue" OEM Doubleshot PBT Keycaps
+	+ Mouse: Logitech G305 (White) + Nulea Trackball Mouse
+	+ Monitor: 2 x Asus ProArt PA24QV (1920 x 1200, IPS, 24.1")
 * **Audio:**
-	* Wireless: Soundcore Space A40
+	* Wireless: Nothing Ear(a) Wireless Earbuds
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
 * **Work Laptop:** 13" M1 Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
-* **Phone:** Pixel 7 128 GB (Obsidian)
+* **Phone:** Samsung Galaxy S24 256 GB (Marble Gray)
 * **Smartwatch:** Garmin Forerunner 255
 
 ## Services
@@ -30,5 +30,5 @@ permalink: /uses/
 * Domain: PorkBun
 * Search: DuckDuckGo / Startpage
 * Backup: Backblaze B2
-* Cloud Storage: Google Drive
+* Cloud Storage: Google Drive (Files) / Microsoft OneDrive (Photos)
 * Music Streaming: Spotify
