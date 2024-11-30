@@ -13,12 +13,6 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 
 I have a variety of hobbies and personal interests. Most recently (as of mid 2022), I've grown a strong interest in evidence-based health & fitness, dropping 17 lbs so far this year! I also play drums in a variety of [local bands](/bands) and have been playing since high school. Finally, I enjoy hanging out with my dogs & partner, cooking, and PC gaming. 
 
-### Latest Blog Posts (Blog is currently on hiatus)
-{% for post in site.posts limit:3 %}
-
-* <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> -  <time style="font-size:90%;" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>  
-{% endfor %}
-
 ### More About Me
 
 * [Bands I Play In](/bands)
