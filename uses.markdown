@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2024-12-1*
+*Last Updated: 2024-12-18*
 
 ## Hardware
 
@@ -15,7 +15,7 @@ permalink: /uses/
 	+ OS: Windows 11 Pro
 	+ Keyboard: Keychron C3 Pro Mechanical Keyboard, Gateron Pro Yellow Switches, Ducky "Good in Blue" OEM Doubleshot PBT Keycaps
 	+ Mouse: Logitech G305 (White) + Nulea Trackball Mouse
-	+ Monitor: 2 x Asus ProArt PA24QV (1920 x 1200, IPS, 24.1")
+	+ Monitor: Asus ProArt PA24QV (1920 x 1200, IPS, 24.1")
 * **Audio:**
 	* Wireless: Nothing Ear(a) Wireless Earbuds, Nothing Ear(open) Earbuds
 	* Wired: Takstar Pro 82 (Silver)
