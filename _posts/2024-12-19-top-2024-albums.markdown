@@ -7,6 +7,10 @@ author: Nicholas Danes
 tags: [drafts]
 ---
 
+<figure>
+<img loading="lazy" src="/images/top_albums-2024/topalbums2024.png">
+</figure>
+
 > This is a one-off to my blog. Not sure if I'll update again soon, but I wrote this post on social media and wanted to mirror it here. We'll see if in 2025 I start actively blogging again.
 
 ## My top ten albums of 2024 (in no particular order):
