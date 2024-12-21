@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog (Archived)
+title: Blog 
 permalink: /blog
 ---
 
