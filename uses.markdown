@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2025-01-03*
+*Last Updated: 2025-01-25*
 
 ## Hardware
 
@@ -17,11 +17,11 @@ permalink: /uses/
 	+ Mouse: Logitech G305 (White) + Nulea Trackball Mouse
 	+ Monitor: 2 x Asus ProArt PA24QV (1920 x 1200, IPS, 24.1")
 * **Audio:**
-	* Wireless: Nothing Ear(a) Wireless Earbuds, Nothing Ear(open) Earbuds
+	* Wireless: Soundcore V20i, Soundcore P40i
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Personal Laptop:** 13.6" M2 Macbook Air with 16 GB Unified Memory, 256 GB SSD (Silver)
+* **Personal Laptop:** Asus Vivobook S 14 with Intel Lunar Lake (Core 5 226V), 16 GB RAM, 512 GB SSD (Black)
 * **Work Laptop:** 13" M1 Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** Samsung Galaxy S24 256 GB (Marble Gray)
 * **Smartwatch:** Garmin Forerunner 255
