@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2025-01-25*
+*Last Updated: 2025-02-15*
 
 ## Hardware
 
@@ -29,7 +29,7 @@ permalink: /uses/
 ## Services
 * Email: Fastmail ([Referral](https://ref.fm/u24999624))
 * Domain: PorkBun
-* Search: DuckDuckGo / Startpage
-* Backup: Backblaze B2
+* Search: [Kagi](https://help.kagi.com/kagi/company)
+* Backup: Backblaze B2 via [[Duplicity](Duplicacy)](https://duplicacy.com/)
 * Cloud Storage: Google Drive (Files) / Microsoft OneDrive (Photos)
 * Music Streaming: Spotify
