@@ -30,6 +30,6 @@ permalink: /uses/
 * Email: Fastmail ([Referral](https://ref.fm/u24999624))
 * Domain: PorkBun
 * Search: [Kagi](https://help.kagi.com/kagi/company)
-* Backup: Backblaze B2 via [[Duplicity](Duplicacy)](https://duplicacy.com/)
+* Backup: Backblaze B2 via [Duplicacy](https://duplicacy.com)
 * Cloud Storage: Google Drive (Files) / Microsoft OneDrive (Photos)
 * Music Streaming: Spotify
