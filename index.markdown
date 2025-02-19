@@ -23,7 +23,7 @@ I have a variety of hobbies and personal interests. The hobby that takes the mos
 ### More About Me
 
 * [Bands I Play In](/bands)
-* [My Resume](/resume)
+* [Curriculum Vitae](/cv)
 * [Tech I use](/uses)
 
 
