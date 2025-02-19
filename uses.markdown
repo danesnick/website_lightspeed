@@ -3,7 +3,7 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2024-12-18*
+*Last Updated: 2025-02-15*
 
 ## Hardware
 
@@ -15,13 +15,13 @@ permalink: /uses/
 	+ OS: Windows 11 Pro
 	+ Keyboard: Keychron C3 Pro Mechanical Keyboard, Gateron Pro Yellow Switches, Ducky "Good in Blue" OEM Doubleshot PBT Keycaps
 	+ Mouse: Logitech G305 (White) + Nulea Trackball Mouse
-	+ Monitor: Asus ProArt PA24QV (1920 x 1200, IPS, 24.1")
+	+ Monitor: 2 x Asus ProArt PA24QV (1920 x 1200, IPS, 24.1")
 * **Audio:**
-	* Wireless: Nothing Ear(a) Wireless Earbuds, Nothing Ear(open) Earbuds
+	* Wireless: Soundcore V20i, Soundcore P40i
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
-* **Personal Laptop:** 13.8" Microsoft Surface Laptop 7 with Snapdragon X Plus, 16 GB RAM, 512 GB SSD (Sapphire Blue)
+* **Personal Laptop:** Asus Vivobook S 14 with Intel Lunar Lake (Core 5 226V), 16 GB RAM, 512 GB SSD (Black)
 * **Work Laptop:** 13" M1 Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
 * **Phone:** Samsung Galaxy S24 256 GB (Marble Gray)
 * **Smartwatch:** Garmin Forerunner 255
@@ -29,7 +29,7 @@ permalink: /uses/
 ## Services
 * Email: Fastmail ([Referral](https://ref.fm/u24999624))
 * Domain: PorkBun
-* Search: DuckDuckGo / Startpage
-* Backup: Backblaze B2
+* Search: [Kagi](https://help.kagi.com/kagi/company)
+* Backup: Backblaze B2 via [Duplicacy](https://duplicacy.com)
 * Cloud Storage: Google Drive (Files) / Microsoft OneDrive (Photos)
 * Music Streaming: Spotify

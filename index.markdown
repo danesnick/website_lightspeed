@@ -14,7 +14,7 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 I have a variety of hobbies and personal interests. The hobby that takes the most of my time is fitness, mostly training with kettlebells, sandbags, and maces/clubs. I also enjoy running and cardio from the [Concept2 SkiErg](https://www.concept2.com/ergs/skierg) and [BikeErg](https://www.concept2.com/ergs/bikeerg). I also play drums in a variety of [local bands](/bands) and have been playing since high school. I also enjoy hanging out with my dog & partner, cooking, and PC gaming. 
 
 
-### Latest Blog Posts (Blog is currently on hiatus)
+### Latest Blog Posts 
 {% for post in site.posts limit:3 %}
 * <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> -  <time style="font-size:90%;" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>  
 {% endfor %}
