@@ -3,9 +3,9 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2025-02-25*
+*Last Updated: 2025-03-23*
 <figure>
- <img class="profile" src="/images/desksetup_March232025.jpg" alt="Current Setup as of 3-23-2025">
+ <img src="/images/desksetup_March232025.jpg" alt="Current Setup as of 3-23-2025">
 </figure>
 
 ## Hardware
