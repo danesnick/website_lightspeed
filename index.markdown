@@ -37,4 +37,4 @@ I have a variety of hobbies and personal interests. The hobby that takes the mos
 * <a rel="me" href="https://mast.hpc.social/@ndanes">Mastodon</a>
 
 ### Contact
-* Email: [hello@ndanes.com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109
+* Email: [hello@ndanes.com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
