@@ -35,6 +35,6 @@ permalink: /uses/
 * Search: [Kagi](https://help.kagi.com/kagi/company)
 * Backup: Backblaze B2 via [Duplicacy](https://duplicacy.com)
 * Cloud Storage:
-	- Files: Google Drive (Files)
+	- Files: Google Drive (Files)   
  	- Photos: [Ente Photos](https://ente.io) - Referal Code: NDANES (We both receive 10GB if you sign up for a paid plan!) 
 * Music Streaming: Apple Music
