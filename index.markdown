@@ -11,7 +11,7 @@ My name is Nicholas A. Danes and I'm a Computational Scientist, helping research
 
 In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Computer Science at [CSU Bakersfield](https://csub.edu). In Late 2019, I completed my PhD in Computational and Applied Mathematics at [Colorado School of Mines](https://ams.mines.edu). After graduating, I worked in the industry as a Computational Engineer for less than a year, realizing I enjoyed more of the research computing/software aspect of my work, rather than the research itself, which led me take my current position as a Computational Scientist. You can see more details in my [resume](/resume)
 
-I have a variety of hobbies and personal interests. The hobby that takes the most of my time is fitness, mostly training with kettlebells, sandbags, and maces/clubs. I also enjoy running and cardio from the [Concept2 SkiErg](https://www.concept2.com/ergs/skierg) and [BikeErg](https://www.concept2.com/ergs/bikeerg). I also play drums in a variety of [local bands](/bands) and have been playing since high school. I also enjoy hanging out with my dog & partner, cooking, and PC gaming. 
+I have a variety of hobbies and personal interests. The hobby that takes the most of my time is fitness, mostly training with kettlebells, sandbags, and maces/clubs. I also play drums in a variety of [local bands](/bands) and have been playing since high school. I also enjoy hanging out with my daughter, wife, & partner, cooking, and PC gaming. 
 
 
 ### Latest Blog Posts 
