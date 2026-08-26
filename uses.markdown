@@ -3,25 +3,25 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2026-02-25*
+*Last Updated: 2026-08-26*
 
 
 ## Hardware
 
-* **Personal Laptop:** Asus Vivobook S 14 with Intel Lunar Lake (Core 5 226V), 16 GB RAM, 512 GB SSD (Black)
-+ Operating System: Windows 11 
+* **Personal Laptop:** Asus Vivobook S 14 with Intel Lunar Lake (Core 5 226V), 16 GB RAM, 512 GB NVMe SSD (Black)
+* **Desktop PC:** Bosgame P3 Plus Mini-PC with AMD Ryzen 7840HS, 32 GB RAM, 1 TB + 512 GB NVMe SSD
 + Keyboard: Keychron B1 Pro
-+ Mouse: ProtoArc Wireless Trackball Mouse, EM01
++ Mouse: Nulea Wireless Trackball Mouse
 + Monitor: Asus BE249CGN 24" Docking Monitor (1080p, IPS, 120 Hz)
 + Vertical Laptop Stand: UGREEN Aluminum Dark Gray
 + Desk: VIVO Universal 48"x30" Rustic Vintage Brown w/ Ikea Gerton legs
 + DAS: Terramaster D2-310 w/ 2 x HGST 7200 RPM 4TB Drives in Raid 1
-+ Other: Hyperkin Competitor Controller, IKEA Tertial Work Clamp Lamp
++ Other: Hyperkin Competitor Controller
 * **Audio:**
 	* In-ear monitors: YINYOO CCZ Melody Gaming Earbuds 
 	* Overear: Takstar Pro 82 (Silver)
 * **Work Laptop:** 13" M1 Macbook Pro with 16 GB Unified Memory, 512 GB SSD (Space Gray)
-* **Phone:** OnePlus 15 512 GB / 16 GB RAM (Sandstone)
+* **Phone:** Samsung Galaxy S26 256 GB / 12 GB RAM (Silver Shadow)
 * **Smartwatch:** Polar Vantage M3
 
 ## Services
