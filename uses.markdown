@@ -3,12 +3,12 @@ layout: page
 title: Uses
 permalink: /uses/
 ---
-*Last Updated: 2026-08-26*
+*Last Updated: 2026-10-07*
 
 
 ## Hardware
 
-* **Personal Laptop:** Asus Vivobook S 14 with Intel Lunar Lake (Core 5 226V), 16 GB RAM, 512 GB NVMe SSD (Black)
+* **Personal Laptop:** Asus Zenbook A14 with Snapdragon X2 Elite, 16 GB RAM, 512 GB NVMe SSD (Zabriskie Beige)
 * **Desktop PC:** Bosgame P3 Plus Mini-PC with AMD Ryzen 7840HS, 32 GB RAM, 1 TB + 512 GB NVMe SSD
 + Keyboard: Keychron B1 Pro
 + Mouse: Nulea Wireless Trackball Mouse

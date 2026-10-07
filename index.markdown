@@ -33,8 +33,6 @@ I have a variety of hobbies and personal interests. The hobby that takes the mos
 * [LinkedIn](https://linkedin.com/in/nicholas-danes-a82107237)
 * [GitHub](https://github.com/danesnick)
 * [Strava](https://www.strava.com/athletes/108504279)
-* [Concept2 Logbook](https://log.concept2.com/profile/2350558)
-* <a rel="me" href="https://mast.hpc.social/@ndanes">Mastodon</a>
 
 ### Contact
 * Email: [hello@ndanes.com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
